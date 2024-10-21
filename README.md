@@ -1,3 +1,3 @@
 # GestionDonnee
 
-TP gestion de données avec eloquent
+TP gestion de données avec eloquent ( voir dans la branche master ) 
